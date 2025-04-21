@@ -34,3 +34,4 @@ matplotlib
 pandas
 resume-parser
 wordcloud
+PyPDF2
