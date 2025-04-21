@@ -33,3 +33,4 @@ plotly
 matplotlib
 pandas
 resume-parser
+wordcloud
