@@ -1,6 +1,6 @@
 import requests
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 HEADERS = {
